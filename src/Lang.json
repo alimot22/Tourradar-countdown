@@ -1,0 +1,33 @@
+{
+  "Days":{
+      "en":"DAYS",
+      "fa": "روز",
+      "du":"DEGEN"
+  },
+  "Hours":{
+      "en":"HOURS",
+      "fa": "ساعت",
+      "du":"HOURS"
+  },
+  "Minutes":{
+      "en":"MINUTES",
+      "fa": "دقیقه",
+      "du":"NOTULEN"
+  },
+  "Seconds":{
+      "en":"SECONDS",
+      "fa": "ثانیه",
+      "du":"SECONDS"
+  },
+  "Title":{
+      "en":"Until Black Friday",
+      "fa": "زمان باقیمانده تا جمعه سیاه",
+      "du":"Tot Black Friday"
+  },
+  "SelectLang":{
+      "en":"Select a language:",
+      "fa": "زبان خود را انتخاب کنید:",
+      "du":"Selecteer een taal:"
+  }
+
+}

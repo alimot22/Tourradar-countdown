@@ -1,0 +1,38 @@
+html{
+  background-image: url(http://getwallpapers.com/wallpaper/full/2/2/a/71287.jpg);
+    background-size: cover;
+    color: #fff;
+}
+.timergroup{
+  margin: 0 auto;
+  width: 1140px;
+  margin-top: 15em;
+  text-align: center;
+}
+
+.timer{
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 5rem;
+  padding: 10px;
+  border:1px solid #eee;
+}
+  .timer label{
+      display: block;
+      font-size: 1.5rem
+  }
+  .CounterDesc{
+    margin-top: 3rem;
+    font-size: 2rem;
+  }
+  .SelectLang {
+    margin-top: 1.3rem;
+  }
+    .SelectLang button{
+        margin-right: 10px;
+        background:#2e7d32;
+        color:#fff;
+        padding: 10px;
+        border-radius: 4px;
+        border:none
+    }
